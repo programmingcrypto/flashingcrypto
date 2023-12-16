@@ -2,6 +2,13 @@ The only real coin flashing tool on the internet. Cryoto Flasher is a software a
 It also lets the user send fake deposit confirmation emails from popular exchanges. 
 This is the only real coin flashing tool on the internet.
 
+30 Days Refund
+Unlimited Features
+Maximum 10 BTC month
+Maximum 100,000 USDT month
+Coming soon ETH
+Binance,Kucoin,Metamask,
+TrustWallet,Bybit,blockchain.com
 
 # 
 
